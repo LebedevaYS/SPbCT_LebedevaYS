@@ -1,0 +1,3 @@
+C:\Users\lebed\source\repos\LebedevaYulia\LebedevaYulia\Debug\LebedevaYulia.vcxprojAssemblyReference.cache
+C:\Users\lebed\source\repos\LebedevaYulia\LebedevaYulia\Debug\LebedevaYulia.MyForm.resources
+C:\Users\lebed\source\repos\LebedevaYulia\LebedevaYulia\Debug\LebedevaYulia.vcxproj.GenerateResource.cache
